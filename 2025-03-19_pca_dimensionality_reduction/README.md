@@ -23,3 +23,18 @@ conda activate pca-dimensionality-reduction-env
 ```
 
 The Python code should now run for you in VS Code (you may need to select the `pca-dimensionality-reduction-env` interpreter when prompted).
+
+## Additional content
+
+### YouTube
+* [StatQuest: PCA main ideas (5 mins)](https://youtu.be/HMOI_lkzW08?si=0er-3nFEdErVwbCk)
+* [StatQuest: PCA, Step-by-Step (22m mins)](https://youtu.be/FgakZw6K1QQ?si=XGgm7BqSEyByTTRS)
+* [3blue1brown: Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+### Kaggle
+* [Eigenfaces exercise](https://www.kaggle.com/code/lalitharajesh/face-recognition-eigenfaces/notebook)
+* [Abalone exercise](https://www.kaggle.com/code/ryanholbrook/principal-component-analysis)
+
+### Other
+* [PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes | Julia Silge](https://juliasilge.com/blog/cocktail-recipes-umap/)
+* [Tidy Modeling with R | Dimensionality](https://www.tmwr.org/dimensionality)

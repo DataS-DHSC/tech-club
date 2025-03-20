@@ -50,7 +50,7 @@ library(tidyverse)
 library(afcharts)
 
 # `prcomp()` handles scaling, if you tell it to
-pcs <- prcomp(iris[, -5], center = TRUE, scale. = TRUE)
+pcs <- prcomp(iris |> select(-Species), center = TRUE, scale. = TRUE)
 
 # The first two principal components explain 95.8% of the variance in the data
 summary(pcs)

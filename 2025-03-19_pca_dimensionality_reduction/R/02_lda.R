@@ -14,7 +14,7 @@ lda_model
   )$x |>
   as_tibble() |>
   select(LD1, LD2) |>
-  bind_cols(iris %>% select(Species)) |>
+  bind_cols(iris |> select(Species)) |>
   ggplot() +
   geom_point(aes(x = LD1, y = LD2, colour = Species)) +
   theme_af() +

@@ -28,7 +28,7 @@ The Python code should now run for you in VS Code (you may need to select the `p
 
 ### YouTube
 * [StatQuest: PCA main ideas (5 mins)](https://youtu.be/HMOI_lkzW08?si=0er-3nFEdErVwbCk)
-* [StatQuest: PCA, Step-by-Step (22m mins)](https://youtu.be/FgakZw6K1QQ?si=XGgm7BqSEyByTTRS)
+* [StatQuest: PCA, Step-by-Step (22 mins)](https://youtu.be/FgakZw6K1QQ?si=XGgm7BqSEyByTTRS)
 * [3blue1brown: Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
 
 ### Kaggle

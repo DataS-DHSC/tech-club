@@ -9,3 +9,9 @@ Individual sessions should be saved in folders of the form `YYYY-MM-DD_session_n
 ## QA Status
 
 Quality assurance is not done per se on these sessions, but typically each session is reviewed by the people running it before pushing to the `main` branch. Materials will be pushed after the session has taken place.
+
+## Getting Help
+Please contact [datascience@dhsc.gov.uk](mailto:datascience@dhsc.gov.uk) for more information.
+
+## Code of Conduct
+Please note that this project is released with a [Contributor Code of Conduct](https://dhsc-govuk-internal.github.io/user-guide.github.io/code-of-conduct.html). By contributing to this project, you agree to abide by its terms.

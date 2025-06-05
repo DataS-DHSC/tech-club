@@ -8,4 +8,4 @@ Individual sessions should be saved in folders of the form `YYYY-MM-DD_session_n
 
 ## QA Status
 
-NA
+Quality assurance is not done per se on these sessions, but typically each session is reviewed by the people running it before pushing to the `main` branch. Materials will be pushed after the session has taken place.
